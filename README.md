@@ -1,10 +1,13 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
-
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+# CLone do Instagram
+ 
+ Interface de login do Instagram! 
 
 ### Os requisitos são:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+## Print
+
+![image](https://user-images.githubusercontent.com/97065934/175796187-aea8fb1a-000d-4a1d-9889-d1c2712cd47b.png)
+
